@@ -1,3 +1,13 @@
+# AudioEncounter: Community Edition
+AudioEncounter, originally made by [ForLoveOfCats](https://github.com/ForLoveOfCats) for a challenge, is a slow-paced technical FPS game, currently maintained by [Drake](https://github.com/Ruthenic).
+
+# LICENSE NOTICE
+The source code under WTFPL, but the repo contains various portions
+of [Qodot](https://github.com/Shfty/qodot-plugin) under `addons/qodot`.
+Additionally many but not all of the files under `MapAssets/` are derived
+from Qodot. These files are all subject to Qodot's original MIT license.
+
+# The original README is preserved below
 # An extremely simple multiplayer FPS built in two weeks
 
 On the 13th of December 2020 I challenged myself to build a multiplayer
