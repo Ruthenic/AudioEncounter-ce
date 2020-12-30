@@ -8,7 +8,7 @@ Additionally many but not all of the files under `MapAssets/` are derived
 from Qodot. These files are all subject to Qodot's original MIT license.
 
 # The original README is preserved below
-# An extremely simple multiplayer FPS built in two weeks
+## An extremely simple multiplayer FPS built in two weeks
 
 On the 13th of December 2020 I challenged myself to build a multiplayer
 FPS game based on an idea I'd had for a while and then host a play
